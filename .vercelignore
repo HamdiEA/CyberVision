@@ -1,0 +1,11 @@
+node_modules
+dist
+*.log
+*.zip
+.env
+.env.*
+.venv
+venv
+backend/__pycache__
+backend/services/__pycache__
+backend/utils/__pycache__
